@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "598924951082-jke40b71frt82om9qbanbaan0fb2o7gi.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD5kJZAkr91j6TmoWbAX-CQ-TNTKJaH-4"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:598924951082:ios:17942846c61f00a3ad0d53", 
+        "android_client_info": {
+          "package_name": "bo.david.unity-notification-bug"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "unity-notification-bug.appspot.com", 
+    "project_id": "unity-notification-bug", 
+    "firebase_url": "https://unity-notification-bug.firebaseio.com", 
+    "project_number": "598924951082"
+  }
+}
